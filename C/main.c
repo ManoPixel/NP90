@@ -210,8 +210,8 @@ int main()
         char choix = '0';
         int grain;
 
-        printf("\nSelectionnez la taille du grain\n[1]Digites de 0 a 10(taille 10)\n[2]Digites et lettre minuscules (taille 36)");
-        printf("\n[3]Digites, lettres minuscules et majuscules (taille 62)\n[4]Tous d'avant et symboles (taille 94)\nChoix: ");
+        printf("\nSelectionnez la taille du grain\n[1]Chiffres de 0 a 10(taille 10)\n[2]Chiffres et lettre minuscules (taille 36)");
+        printf("\n[3]Chiffres, lettres minuscules et majuscules (taille 62)\n[4]Tous d'avant et symboles (taille 94)\nChoix: ");
 
         scanf(" %c", &choix);
 
